@@ -9,3 +9,6 @@ order: 4
 
 >New text.
 {: .prompt-tip }
+
+>Second text
+{: .prompt-tip }
