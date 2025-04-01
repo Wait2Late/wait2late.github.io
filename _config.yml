@@ -28,8 +28,8 @@ url: "https://shakil_dev.github.io"
 github:
   username: Wait2Late # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+# twitter:
+#   username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
