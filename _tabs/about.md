@@ -18,9 +18,8 @@ I am going to make this a documentation site for my progress in game development
 
 This is a project I am working on.
 
-link: [Project 1]("shakil.is-a.dev")
-### Project 2
-Link: [Project 2]("shakil.is-a.dev")
+link: Project 1
+
 
 
 >New text.
