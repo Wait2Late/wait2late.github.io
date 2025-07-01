@@ -10,6 +10,16 @@ order: 4
 # About Me
 
 I am Shakil Islam. Just a game programmer.
+
+I am going to make this a documentation site for my progress in game development.
+
+## My Projects
+### Project 1
+
+This is a project I am working on.
+
+
+
 >New text.
 {: .prompt-tip }
 
