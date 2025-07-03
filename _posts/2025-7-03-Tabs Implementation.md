@@ -1,3 +1,10 @@
+---
+title: Tabs Implementation
+date: 2025-07-03 00:00:00 +0000
+categories: [tabs]
+tags: [tabs]
+---
+
 ### First tabs
 
 {% tabs log %}
