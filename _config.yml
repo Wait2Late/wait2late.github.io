@@ -225,12 +225,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-plugins:
-  - jekyll-tabs
-
-assets:
-  self_css:
-    - /assets/css/tabs.css
-  self_js:
-    - /assets/js/tabs.js
