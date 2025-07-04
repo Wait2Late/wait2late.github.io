@@ -1,0 +1,55 @@
+[
+  
+  {
+    "title": "Honkai Star Rail",
+    "url": "/posts/Honkai-Star-Rail/",
+    "categories": "Games, Honkai Star Rail",
+    "tags": "HSR, gaming",
+    "date": "2025-07-04 00:00:00 +0200",
+    
+
+
+
+
+
+    
+    "snippet": "Honkai Star RailYear 2 regretsEver since I saw Castorice animations, I wanted her so badly with her team. I believe this was the beginning of my regret I made. With the introduction of the Remembra...",
+    "content": "Honkai Star RailYear 2 regretsEver since I saw Castorice animations, I wanted her so badly with her team. I believe this was the beginning of my regret I made. With the introduction of the Remembrance path. It brought a whole new team building which costs a lot.What I instead should have done is investing into The Herta team. Not only is she the strongest AoE damage dealer in the game. But her biggest weakness offsets with Anaxa on the team. She is also very beautiful and I love her design.The Herta costed one. While Castorice team costed 5. I should have invested into her instead of Castorice. In fact this debate sparked with the downhill of powercreep. The game now makes me to only want to vertically invest in my current teams.            Teams      Characters      Cost      LC                  Herta team      The Herta, Tribbie, Anaxa, Gallagher      3      0              Castorice team      Castorice, Tribbie, RMC, Hyacine      3      1              Archer team      Archer E1, Sparkle, SW, Gallagher      3      0      "
+  },
+  
+  {
+    "title": "Tabs-test",
+    "url": "/posts/Tabs/",
+    "categories": "tabs",
+    "tags": "tabs, jekyll, documentation",
+    "date": "2025-07-03 00:00:00 +0200",
+    
+
+
+
+
+
+    
+    "snippet": "Tabs in JekyllHow can I make this work?I hope it works now!First tabs                  php                         js                         ruby                 var_dump('hello');        console....",
+    "content": "Tabs in JekyllHow can I make this work?I hope it works now!First tabs                  php                         js                         ruby                 var_dump('hello');        console.log('hello');        pputs 'hello'  hello:  - 'whatsup'  - 'hi'        {    \"hello\": [\"whatsup\", \"hi\"]}   -->"
+  },
+  
+  {
+    "title": "Epilogue",
+    "url": "/posts/Epilogue/",
+    "categories": "Game Project",
+    "tags": "FPS, Roguelike",
+    "date": "2025-07-02 02:00:00 +0200",
+    
+
+
+
+
+
+    
+    "snippet": "EpilogueAbout this projectEpilogue is an FPS roguelike game where players can discover weapon upgrades, combining and mixing them to craft powerful arsenals. These upgrades manifest as shiny object...",
+    "content": "EpilogueAbout this projectEpilogue is an FPS roguelike game where players can discover weapon upgrades, combining and mixing them to craft powerful arsenals. These upgrades manifest as shiny objects scattered throughout each level, ranging from those in plain sight to cleverly hidden ones.Project Info  Main Roles: Systems &amp; AI Programming  Duration: 4 weeks  Team Size: 9  Unreal Engine 5.2 – C++ &amp; BlueprintPlay on itch.ioWave ManagerIn the early stages of development, I envisioned a roguelike experience with intense enemy encounters. To bring this vision to life, I implemented a robust system that dynamically spawns enemies around the player. This system was designed to be modular, allowing for easy integration with additional systems alongside the Wave Manager.Example Code:WaveManager C++/Blueprint (Pastebin)I meticulously designed the code to accommodate various enemy types using an Enum. This flexible system enables the dynamic spawning of enemies at random positions surrounding the player. A crucial aspect of this implementation is its consideration for the boundaries of the navigation mesh, ensuring that spawned enemies seamlessly navigate within the designated play area.Blueprint Examples:  WaveManager Blueprint  Enemy Spawn Logic (C++ side)  Set Data Table for Enemy Spawn Wave  My designer requested that we work with DataTables, and he meticulously laid out an extensive system in an Excel sheet. Everything needed to be compatible with blueprints for the convenience of our designers. Initially, I intended to implement everything in C++, but with that mindset discarded, almost everything had to be refactored to align with the blueprint. Frankly, it was a fun and rewarding challenge to overcome.AIIn later development, I was assigned to assist our AI designer, who was tackling this task for the first time. Unfortunately, none of our team members had prior experience in AI development. Consequently, we decided to create a basic AI, which presented its own set of challenges. One significant hurdle was implementing a pooling system to efficiently manage the large number of enemies. Even after respawning, these enemies needed to perform actions such as moving, shooting, and standing still, adding an extra layer of complexity to the task.Bug Example:The reason for this lies in my pooling system, where I had to devise a way to prevent the enemy from shooting even in its ‘dead’ state. To achieve this, I incorporated SetActorTickEnabled() into the EnemyBase script. By checking the IsActive status, I can determine whether the enemy is alive. This implementation not only addresses the specific issue but also streamlines the process of pooling enemies. I applied a similar approach in my third Future Games project, “The Legend of Tronco”.Pooling System C++ Example (Pastebin)Pooling System BlueprintFixed Example:  While there were numerous instances where I had to debug, unfortunately, there isn’t enough material to showcase as these issues were relatively small, and I wasn’t able to record the debugging process.Pooling SystemI find great satisfaction in pooling elements to achieve optimal performance, continuously exploring the expansive realm of optimization. The concept of pooling allows for a more efficient utilization of resources, contributing to an enhanced overall performance.Pooling System Code:PoolsEnemy.cpp (BeginPool)PoolsEnemy.cpp (SpawnEnemy)Screenshots:Typically, when enemies are defeated by the player, the DestroyActor method is employed. However, to align with my pooling system’s objective of returning enemies to the pool, I’ve implemented a convenient method called Deactivate within the EnemyBase class. This method essentially broadcasts a signal indicating that this particular enemy is no longer active, facilitating its seamless return to the pool.This blueprint is associated with the parent of all enemies. The OnDeath(Health) event is triggered when an enemy perishes. Subsequently, it utilizes the Deactivate function, which is marked as a blueprint callable function. This design allows any enemy to invoke the Deactivate function, ensuring their return to the pool instead of being outright destroyed upon demise.  Deactivate BlueprintSummaryThis project has been incredibly eventful and stands as my proudest accomplishment to date. Our success can be attributed to clear communication and well-defined goals. My primary contributions involved crafting a robust pooling system, implementing a WaveManager to handle enemy spawning, and taking on the role of Quality Assurance (QA) for the AI aspects.ContactPortfolio developed by Shakil Islam with HTML5 &amp; CSS3  Copyright © 2024 Shakil Islam  Contact: shakil.ai@outlook.com  LinkedIn: Shakil Islam  GitHub: Wait2Late  Resume"
+  }
+  
+]
+

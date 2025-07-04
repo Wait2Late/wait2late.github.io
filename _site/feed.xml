@@ -1,0 +1,165 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://wait2late.github.io/</id>
+  <title>Shakil's Documentation site</title>
+  <subtitle>A personal documentation site for my game projects, showcasing my work and providing insights into game development. Separate from my main portfolio site, this site focuses on my game programming projects documentation.</subtitle>
+  <updated>2025-07-04T18:50:14+02:00</updated>
+  <author>
+    <name>Shakil Islam</name>
+    <uri>https://wait2late.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://wait2late.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://wait2late.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Shakil Islam </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Honkai Star Rail</title>
+    <link href="https://wait2late.github.io/posts/Honkai-Star-Rail/" rel="alternate" type="text/html" title="Honkai Star Rail" />
+    <published>2025-07-04T00:00:00+02:00</published>
+  
+    <updated>2025-07-04T00:00:00+02:00</updated>
+  
+    <id>https://wait2late.github.io/posts/Honkai-Star-Rail/</id>
+    <content type="text/html" src="https://wait2late.github.io/posts/Honkai-Star-Rail/" />
+    <author>
+      <name>Shakil Islam</name>
+    </author>
+
+  
+    
+    <category term="Games" />
+    
+    <category term="Honkai Star Rail" />
+    
+  
+
+  <summary>Honkai Star Rail
+
+Year 2 regrets
+
+Ever since I saw Castorice animations, I wanted her so badly with her team. I believe this was the beginning of my regret I made. With the introduction of the Remembrance path. It brought a whole new team building which costs a lot.
+
+What I instead should have done is investing into The Herta team. Not only is she the strongest AoE damage dealer in the game. Bu...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Tabs-test</title>
+    <link href="https://wait2late.github.io/posts/Tabs/" rel="alternate" type="text/html" title="Tabs-test" />
+    <published>2025-07-03T00:00:00+02:00</published>
+  
+    <updated>2025-07-03T16:26:44+02:00</updated>
+  
+    <id>https://wait2late.github.io/posts/Tabs/</id>
+    <content type="text/html" src="https://wait2late.github.io/posts/Tabs/" />
+    <author>
+      <name>Shakil Islam</name>
+    </author>
+
+  
+    
+    <category term="tabs" />
+    
+  
+
+  <summary>Tabs in Jekyll
+How can I make this work?
+I hope it works now!
+
+First tabs
+
+
+  
+      
+          php 
+      
+  
+      
+          js 
+      
+  
+      
+          ruby 
+      
+  
+
+
+  
+      
+var_dump(&amp;#39;hello&amp;#39;);
+
+
+  
+      
+console.log(&amp;#39;hello&amp;#39;);
+
+
+  
+      
+pputs &amp;#39;hello&amp;#39;
+
+
+  
+
+
+
+hello:
+  - &amp;#39;whatsup&amp;#39;
+  - &amp;#39;hi&amp;#39;
+
+&amp;amp;lt;/tr&amp;amp;gt;&amp;amp;lt;/tbody&amp;amp;gt;&amp;amp;lt;/table&amp;amp;gt;&amp;amp;lt;/code&amp;amp;gt;&amp;amp;lt;/pre&amp;amp;gt;&amp;amp;lt;/div&amp;amp;gt;&amp;amp;lt;/div&amp;amp;gt;
+&amp;amp;lt...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Epilogue</title>
+    <link href="https://wait2late.github.io/posts/Epilogue/" rel="alternate" type="text/html" title="Epilogue" />
+    <published>2025-07-02T02:00:00+02:00</published>
+  
+    <updated>2025-07-03T14:29:30+02:00</updated>
+  
+    <id>https://wait2late.github.io/posts/Epilogue/</id>
+    <content type="text/html" src="https://wait2late.github.io/posts/Epilogue/" />
+    <author>
+      <name>Shakil Islam</name>
+    </author>
+
+  
+    
+    <category term="Game Project" />
+    
+  
+
+  <summary>Epilogue
+
+
+
+About this project
+
+Epilogue is an FPS roguelike game where players can discover weapon upgrades, combining and mixing them to craft powerful arsenals. These upgrades manifest as shiny objects scattered throughout each level, ranging from those in plain sight to cleverly hidden ones.
+
+
+
+Project Info
+
+
+  Main Roles: Systems &amp;amp;amp; AI Programming
+  Duration: 4 weeks
+  Team Size: 9
+  Un...</summary>
+
+  </entry>
+
+</feed>
+
+
