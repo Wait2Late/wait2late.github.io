@@ -15,7 +15,7 @@ We know powercreep will reach everyone. But I hope E6 Archer will be able to hol
 In the wake of finding out what people thought of E6 Archer, I have come to the conclusion that it is not worth the investment. The main reasons are:
 - Investing in Sparkle E2 provides a similar return.
 - It's easy to overstack Defense Down/Ignore with Silver Wolf.
-- Investing in E1/2 is a good stopping point.
+- Investing in E1/2 is a good stopping point. Anything beyond is luxury and expensive.
 - The gain in damage is not that significant compared to the investment.
 - The investment could be saved for future characters.
 - It may require to invest in E1 DHPT, if Gallagher is no longer sufficient. But can wait until a rerun.
