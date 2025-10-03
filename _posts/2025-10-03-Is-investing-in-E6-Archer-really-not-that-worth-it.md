@@ -1,8 +1,8 @@
 ---
 title: Is investing in E6 Archer really not worth it?
 date: 2025-10-03
-categories: [Games]
-tags: [Hoyo, Games]
+categories: [Hoyo Games]
+tags: [HSR, Games]
 ---
 
 
