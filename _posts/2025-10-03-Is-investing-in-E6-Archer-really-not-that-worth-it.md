@@ -21,7 +21,6 @@ In the wake of finding out what people thought of E6 Archer, I have come to the 
 
 ## My hopes in convincing myself
 - The SP generation is very attractive. There were many scenarios in which Sparkle had 6 SP with no ultimate at ready. Which is big waste.
-- The damage increase is not that significant, but it is still a damage increase.
 - The defense ignore can be adjusted with a new relic set.
 - The team is essentially complete. All I need is more investment in SP and damage. 
 - Fate collab banner will eventually be removed for good. This means it is my only chance.
