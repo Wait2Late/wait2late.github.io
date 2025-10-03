@@ -8,6 +8,9 @@ tags: [Hoyo, Games]
 
 # Analyzing E6 Archer investment
 
+## The purpose of this post
+We know powercreep will reach everyone. But I hope E6 Archer will be able to hold on forever. 
+
 ## From what I have gathered
 In the wake of finding out what people thought of E6 Archer, I have come to the conclusion that it is not worth the investment. The main reasons are:
 - Investing in Sparkle E2 provides a similar return.
@@ -26,6 +29,8 @@ In the wake of finding out what people thought of E6 Archer, I have come to the 
 
 ## Final conclusion
 If I don't invest in E6 Archer. Then the investment will go to memosprite team with Castorice as the core. I am ready to skip Evernight in hopes of getting her in a rerun. There are also Cyrene E0 and Hyacine LC to consider. 
+
+What do you think? Is E6 Archer worth it?
 
 |                | E6 Archer | Castorice team                            |
 | -------------- | --------- | ----------------------------------------- |
